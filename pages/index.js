@@ -60,7 +60,7 @@ export default function HomePage() {
         <StyledInput type="text" id="user-info" name="userInfo" />
 
         <StyledLabel htmlFor="companyInfo">
-          Enter a few words about yourself
+          Enter a few words about the company
         </StyledLabel>
         <StyledInput type="text" id="companyInfo" name="companyInfo" />
 
